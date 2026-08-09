@@ -1,22 +1,108 @@
-# 💫 About Me:
-🔭I'm currently working on Python. <br>👯‍♂️I'm looking to collaborate on open source project. <br>🤝I'm looking for help with chrome extension projects. <br>🌱I'm currently learning core python.<br>💭Ask me about python related projects. <br>⚡Fun fact I'm Digital marketer
+<h1 align="left">Chandan Kumar</h1>
 
+<p align="left">
+  <b>Founder, Mark 42 Digital Solution</b><br>
+  Web Design · Development · SEO · Performance Marketing<br>
+  Noida, Delhi NCR · Serving India and international English-speaking markets
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chandankumarjarvis1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandankumarjarvis1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chandanjarvis1) 
-
-# 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chandankumarjarvis1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chandankumarjarvis1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandankumarjarvis1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left">
+  <a href="https://mark42.com"><img src="https://img.shields.io/badge/Agency-mark42.com-050505?style=flat-square&logo=vercel&logoColor=white" alt="mark42.com"></a>
+  <a href="https://imchandankumar.com"><img src="https://img.shields.io/badge/Portfolio-imchandankumar.com-050505?style=flat-square&logo=aboutdotme&logoColor=white" alt="imchandankumar.com"></a>
+  <a href="https://linkedin.com/company/mark-42"><img src="https://img.shields.io/badge/LinkedIn-Mark%2042-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:chandan@mark42.com"><img src="https://img.shields.io/badge/Email-chandan@mark42.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chandankumarjarvis1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chandankumarjarvis) 
+### What I do
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I build websites that are accountable for leads, not just launches.
+
+Most agencies hand off a design and disappear. I run the full loop: strategy, build, traffic, and conversion. That means the same person who writes your meta title also writes your ad copy and reads your GA4 funnel drop-off. Nothing gets lost between vendors.
+
+**Web Design & Development** — Hand-coded builds on Next.js and PHP. No bloated themes, no page builders. Semantic HTML, clean URLs, schema-ready markup, Core Web Vitals in the green.
+
+**Technical SEO** — Crawl and index audits, keyword and intent mapping, internal link architecture, structured data. Rankings built to survive algorithm updates.
+
+**Performance Marketing** — Full-funnel Meta and Google campaigns. Creative testing, sharp targeting, ruthless measurement.
+
+**Brand & Graphic Design** — Identity systems and ad creative with hierarchy and intent. Design that sells, not decorates.
+
+---
+
+### Stack
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+**Backend & CMS**
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify">
+  <img src="https://img.shields.io/badge/OpenCart-2AC2AF?style=flat-square&logo=opencart&logoColor=white" alt="OpenCart">
+</p>
+
+**Marketing & Analytics**
+<p>
+  <img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="GA4">
+  <img src="https://img.shields.io/badge/Search_Console-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Search Console">
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" alt="Google Ads">
+  <img src="https://img.shields.io/badge/Meta_Ads-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta Ads">
+  <img src="https://img.shields.io/badge/Ahrefs-FF7A59?style=flat-square&logo=ahrefs&logoColor=white" alt="Ahrefs">
+  <img src="https://img.shields.io/badge/Screaming_Frog-4CAF50?style=flat-square" alt="Screaming Frog">
+</p>
+
+**Design**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator">
+</p>
+
+---
+
+### Work
+
+Client builds and case studies live on the agency site, not in this account. Most production repositories are private under client agreements.
+
+- **[mark42.com/work](https://mark42.com/work)** — selected projects across healthcare, wellness, interiors, and food
+- **[mark42.com/tools](https://mark42.com/tools)** — free tools I built for marketers and site owners
+- **[mark42.com/blog](https://mark42.com/blog)** — notes on SEO, performance, and conversion
+
+Also running **[Kamtush](https://kamtush.com)**, my own e-commerce operation in batteries, inverters, solar, and EV. It doubles as the testbed where I break things before a client site ever sees them.
+
+---
+
+### Track record
+
+- 5+ years in operation
+- 50+ clients across India and international markets
+- 5.0 rating on Google across 13 verified reviews
+
+---
+
+### Work with me
+
+**Start here: [free website audit](https://mark42.com/audit).** Send your URL, get a straight assessment of what is costing you leads. No pitch attached.
+
+<p>
+  <a href="https://mark42.com/audit"><img src="https://img.shields.io/badge/Get_a_free_website_audit-050505?style=for-the-badge&logoColor=white" alt="Free website audit"></a>
+  <a href="https://wa.me/917903655397?text=Hi%20Mark%2042%2C%20I%27d%20like%20to%20discuss%20a%20project."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="mailto:chandan@mark42.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+Ready to brief a project? **[mark42.com/contact](https://mark42.com/contact)** — you get a fixed quote with deliverables, timeline, and exclusions. No hourly billing.
+
+---
+
+<sub>Mark 42 Digital Solution · Sector 62, Noida, Uttar Pradesh · GSTIN 09ACBFM3485C1ZA · Udyam UDYAM-UP-28-0063360</sub>
