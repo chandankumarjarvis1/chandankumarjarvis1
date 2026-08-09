@@ -21,13 +21,13 @@ I build websites that are accountable for leads, not just launches.
 
 Most agencies hand off a design and disappear. I run the full loop: strategy, build, traffic, and conversion. That means the same person who writes your meta title also writes your ad copy and reads your GA4 funnel drop-off. Nothing gets lost between vendors.
 
-**Web Design & Development** — Hand-coded builds on Next.js and PHP. No bloated themes, no page builders. Semantic HTML, clean URLs, schema-ready markup, Core Web Vitals in the green.
+**Web Design & Development:** Hand-coded builds on Next.js and PHP. No bloated themes, no page builders. Semantic HTML, clean URLs, schema-ready markup, Core Web Vitals in the green.
 
-**Technical SEO** — Crawl and index audits, keyword and intent mapping, internal link architecture, structured data. Rankings built to survive algorithm updates.
+**Technical SEO:** Crawl and index audits, keyword and intent mapping, internal link architecture, structured data. Rankings built to survive algorithm updates.
 
-**Performance Marketing** — Full-funnel Meta and Google campaigns. Creative testing, sharp targeting, ruthless measurement.
+**Performance Marketing:** Full-funnel Meta and Google campaigns. Creative testing, sharp targeting, ruthless measurement.
 
-**Brand & Graphic Design** — Identity systems and ad creative with hierarchy and intent. Design that sells, not decorates.
+**Brand & Graphic Design:** Identity systems and ad creative with hierarchy and intent. Design that sells, not decorates.
 
 ---
 
@@ -75,9 +75,9 @@ Most agencies hand off a design and disappear. I run the full loop: strategy, bu
 
 Client builds and case studies live on the agency site, not in this account. Most production repositories are private under client agreements.
 
-- **[mark42.com/work](https://mark42.com/work)** — selected projects across healthcare, wellness, interiors, and food
-- **[mark42.com/tools](https://mark42.com/tools)** — free tools I built for marketers and site owners
-- **[mark42.com/blog](https://mark42.com/blog)** — notes on SEO, performance, and conversion
+- **[mark42.com/work](https://mark42.com/work)**: selected projects across healthcare, wellness, interiors, and food
+- **[mark42.com/tools](https://mark42.com/tools)**: free tools I built for marketers and site owners
+- **[mark42.com/blog](https://mark42.com/blog)**: notes on SEO, performance, and conversion
 
 Also running **[Kamtush](https://kamtush.com)**, my own e-commerce operation in batteries, inverters, solar, and EV. It doubles as the testbed where I break things before a client site ever sees them.
 
@@ -101,7 +101,7 @@ Also running **[Kamtush](https://kamtush.com)**, my own e-commerce operation in 
   <a href="mailto:chandan@mark42.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-Ready to brief a project? **[mark42.com/contact](https://mark42.com/contact)** — you get a fixed quote with deliverables, timeline, and exclusions. No hourly billing.
+Ready to brief a project? **[mark42.com/contact](https://mark42.com/contact)**: you get a fixed quote with deliverables, timeline, and exclusions. No hourly billing.
 
 ---
 
